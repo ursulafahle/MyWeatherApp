@@ -2,7 +2,7 @@ body {
   background-color: rgb(249, 247, 254);
   font-family: "Titillium Web", sans-serif;
 }
-.box {
+.weather-app {
   background-color: white;
   max-width: 600px;
   margin: 45px auto;
@@ -11,7 +11,7 @@ body {
   border-radius: 16px;
 }
 header {
-  padding: 10px 0 10px 0;
+  padding: 0 0 30px 0;
   border-bottom: 1px solid rgb(249, 247, 254);
 }
 .search-form-input {
@@ -25,7 +25,7 @@ header {
 }
 .search-form-button {
   background-color: #885df1;
-  color: rgb(255, 255, 255);
+  color: white;
   border: none;
   width: 18%;
   border-radius: 6px;
