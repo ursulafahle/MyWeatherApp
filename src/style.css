@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(249, 247, 254);
+  font-family: "Titillium Web", sans-serif;
+}
+.box {
+  background-color: white;
+  max-width: 600px;
+  margin: 45px auto;
+  padding: 30px;
+  box-shadow: rgba(65, 50, 100, 0.08) 0px 30px 50px 0px;
+  border-radius: 16px;
+}
